@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://i.etsystatic.com/14851255/r/il/4b1e77/1502615994/il_fullxfull.1502615994_goxm.jpg" alt="Mountains" align="right" width="400">
+<img src="Images/mountain_painting.webp" alt="Mountains" align="right" width="400">
 
 <div style="display:flex; align-items: center;">
 
@@ -36,7 +36,6 @@ Digit Squared | Product
 4<sup>2</sup> | 16
 5<sup>2</sup> | 25
 
-And I have also been studying V̇O<sub>2</sub> max, check out my subfolder where I can put my extra research:
 
 ##### Check Out My Javascript Code Block For Multiplying Numbers
 
